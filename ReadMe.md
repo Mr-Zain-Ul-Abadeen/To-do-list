@@ -1,10 +1,10 @@
 # **Live Demo**
-[Visit Project](https://weather-dashboard-red-alpha.vercel.app/)
+[Visit Project](https://to-do-list-sigma-mocha-12.vercel.app/)
 
-# Weather Dashboard
+# Task Manager
 
 ## Overview
-A simple Weather Dashboard that provides real-time weather updates and forecasts for different locations.
+A Task Manager application to help users organize, track, and manage tasks efficiently.
 
 ## License
 This project is licensed under the MIT License.
